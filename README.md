@@ -1,16 +1,28 @@
-### Hi there 👋
+### Bonjour, Je suis Lina 👋 
 
-<!--
-**linaTechDev/linaTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis une développeuse basée au canada, et je suis passionnée par la création d'application web et mobile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rester à jour avec moi sur  [LinkedIn](https://www.linkedin.com/in/lina-lacroix-778a382a3).
+
+## 🔭 Position actuelle
+
+J'étudie actuellement en tant que développeur fullstack au Canada, où mon parcours implique à la fois l'apprentissage et la création d'applications. Voici ce sur quoi je me concentre actuellement :
+
+- Je suis à la recherche d'un stage pour le début Janvier 2024.
+
+- Je suis engagée dans des projets fullstack passionnants.
+
+- J'explore différents outils et bibliothèques pour améliorer mes compétences.
+
+- Je suis une lève-tôt, toujours motivée et j'apprends constamment dans le monde de la technologie.
+
+## ✨ Faits intéressants
+
+- J'aime faire des design d'applications sur Figma.
+
+## 📫 Contact
+
+ Pour une réponse rapide, envoyer un message sur [LinkedIn](https://www.linkedin.com/in/lina-lacroix-778a382a3). 
+ 
+Pour toute demande professionnelle, me contacter par e-mail à l'adresse [lina.ly.2018@outlook.fr](mailto:lina.ly.2018@outlook.fr). 
