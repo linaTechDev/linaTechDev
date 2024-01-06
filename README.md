@@ -15,8 +15,6 @@ J'étudie actuellement en tant que développeur fullstack au Canada, où mon par
 
 - J'explore différents outils et bibliothèques pour améliorer mes compétences.
 
-- Je suis une lève-tôt, toujours motivée et j'apprends constamment dans le monde de la technologie.
-
 ## ✨ Faits intéressants
 
 - J'aime faire des design d'applications sur Figma.
