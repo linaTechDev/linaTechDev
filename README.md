@@ -1,19 +1,20 @@
 ### Bonjour, Je suis Lina 👋 
 
-Je suis une développeuse basée au canada, et je suis passionnée par la création d'application web et mobile.
-
+Je suis une développeuse basée au canada, et je suis passionnée par la création d'application full stack, web et mobile.
 
 - Rester à jour avec moi sur  [LinkedIn](https://www.linkedin.com/in/linatechdev).
 
-## 🔭 Position actuelle
+## 📦 Compétences
 
-J'étudie actuellement en tant que développeur fullstack au Canada, où mon parcours implique à la fois l'apprentissage et la création d'applications. Voici ce sur quoi je me concentre actuellement :
+**Frontend Development:** `React` `Javascript` `TypeScript` `Flutter` `Angular` `Bootstrap` `Framer-IONIC`
+ 
+**Version Control:** `Git` `GitHub`
 
-- Je suis à la recherche d'un stage pour le début Janvier 2024.
+**Backend Development:** `Java` `SQL` `PostgreSQL`
 
-- Je suis engagée dans des projets fullstack passionnants.
+**Testing:** `Test react` `Mockito` `Test java` `Postman`
 
-- J'explore différents outils et bibliothèques pour améliorer mes compétences.
+**Others:** `Scrum` `Jira` `Trello` `Scrum` `Confluence` `Jira`
 
 ## ✨ Faits intéressants
 
