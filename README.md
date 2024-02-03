@@ -6,15 +6,15 @@ Je suis une développeuse basée au canada, et je suis passionnée par la créat
 
 ## 📦 Compétences
 
-**Frontend Development:** `React` `Javascript` `TypeScript` `Flutter` `Angular` `Bootstrap` `Framer-IONIC`
+**Développement Frontend:** `React` `Javascript` `TypeScript` `Flutter` `Angular` `Bootstrap` `Framer-IONIC`
  
-**Version Control:** `Git` `GitHub`
+**Control de versions:** `Git` `GitHub`
 
-**Backend Development:** `Java` `SQL` `PostgreSQL`
+**Développement Backend:** `Java` `SQL` `PostgreSQL`
 
-**Testing:** `Test react` `Mockito` `Test java` `Postman`
+**Tests:** `Test react` `Mockito` `Test java` `Postman`
 
-**Others:** `Scrum` `Jira` `Trello` `Scrum` `Confluence` `Jira`
+**Autres:** `Scrum` `Jira` `Trello` `Scrum` `Confluence` `Jira`
 
 ## ✨ Faits intéressants
 
