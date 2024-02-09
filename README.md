@@ -14,7 +14,7 @@ Je suis une développeuse basée au canada, et je suis passionnée par la créat
 
 **Tests:** `Test react` `Mockito` `Test java` `Postman`
 
-**Autres:** `Scrum` `Jira` `Trello` `Scrum` `Confluence` `Jira`
+**Autres:** `Scrum` `Jira` `Trello`
 
 ## ✨ Faits intéressants
 
