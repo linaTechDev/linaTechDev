@@ -12,9 +12,9 @@ Développeuse Full-Stack | Web & Mobile 📱💻 | Création d'applications util
 
 **Tests:** `Test react (Jest)` `Postman`
 
-**Autres:** `Scrum` `Jira` `Trello` `Power Apps` `Power Automate` `Power BI` `SharePoint`
+**Autres:** `Scrum` `Jira` `Trello` `Power Apps` `Power Automate` `Power BI` `SharePoint` `Google Appsheet` `Google Apps scripts`
 
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaTechDev&layout=compact"/> <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/linaTechDev?theme=github-dark&cardType=github">
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/linaTechDev?theme=github-dark&cardType=github">
 
 ## ✨ Faits intéressants
 - J'aime faire des design d'applications sur Figma.
